@@ -9,10 +9,10 @@
 ],
 spec: 2;
 semanticColors: { 
-							"HEADER_PRIMARY":  ["#99004D", "#D121C1", "#6E003C"],
+							"HEADER_PRIMARY":  ["#99004D", "#D121C1", "#6E003C"]
 									                  //Dark theme, light, amoled
 
-							"HEADER_SECONDARY":  ["#6E003C", "#D121C0", "#99004D"],
+							"HEADER_SECONDARY":  ["#6E003C", "#D121C0", "#99004D"]
 									                  //Dark theme, light, amoled
 
 							"TEXT_LINK":  ["#99004D", "#D121C1", "#6E003C"]
