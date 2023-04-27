@@ -23,7 +23,7 @@ rawColors: {
 },
 "background": {
     "blur": 0.6,
-    "url": "https://github.com/TrippaTepis/Theme/blob/main/backgroundimage.png",
+    "url": "https://github.com/TrippaTepis/Theme/raw/main/backgroundimage.png",
     "alpha": 0.4
     },
 }
