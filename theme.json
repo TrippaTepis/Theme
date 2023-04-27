@@ -1,10 +1,9 @@
 {
-	name:Trizza Tethis;
+	name:Theme;
 	description: A theme for Trizza;
 	authors: [ 
 	{
 			name: Inunah;
-		  id: 1068030255455015013;
 	}
 ],
 spec: 2;
