@@ -1,0 +1,30 @@
+{
+	name:Trizza Tethis;
+	description: A theme for Trizza;
+	authors: [ 
+	{
+			name: Inunah;
+		  id: 1068030255455015013;
+	}
+],
+spec: 2;
+semanticColors: { 
+							"HEADER_PRIMARY":  ["#99004D", "#D121C1", "#6E003C"]
+									                  //Dark theme, light, amoled
+
+							"HEADER_SECONDARY":  ["#6E003C", "#D121C0", "#99004D"]
+									                  //Dark theme, light, amoled
+
+							"TEXT_LINK":  ["#99004D", "#D121C1", "#6E003C"]
+									                  //Dark theme, light, amoled  
+       
+};
+rawColors: { 
+					"PRIMARY_500": "#77003C"
+},
+"background": {
+    "blur": 0.6,
+    "url": "https://github.com/TrippaTepis/Theme/blob/main/backgroundimage.png",
+    "alpha": 0.4
+    },
+}
