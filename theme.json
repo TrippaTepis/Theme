@@ -1,26 +1,29 @@
 {
-  	"name": ["Theme"],
-    "description": ["Theme"],
-    "authors": [
-      { 
-        "name": "Trizza"
-      }
-    ],
-
+  "name": [
+    "Theme"
+  ],
+  "description": [
+    "Theme"
+  ],
+  "authors": [
+    {
+      "name": ["Trizza"]
+    }
+  ],
   "spec": 2,
   "semanticColors": {
-    "HEADER_PRIMARY": [ "#99004d", "#d121c1", "#6e003c"]
+    "HEADER_PRIMARY": [
+      "#99004d",
+      "#d121c1",
+      "#6e003c"
+    ]
   },
-
   "rawColors": {
     "PRIMARY_500": "#77004d"
   },
-
-  
-
-"background": {
+  "background": {
     "blur": 0.6,
     "url": "https://github.com/TrippaTepis/Theme/raw/main/backgroundimage.png",
     "alpha": 0.4
-    }
+  }
 }
