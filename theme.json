@@ -1,23 +1,26 @@
 {
-	name:Theme;
-	description: Theme;
-	authors: [ 
-	{
-			name: Trizza;
-		  id: 1068030255455015013;
-	}
-],
-spec: 2;
-semanticColors: { 
-							"HEADER_PRIMARY":  ["#99004d", "#d121c1", "#6e003c"]
-									                  //Dark theme, light, amoled         
-};
-rawColors: { 
-					"PRIMARY_500": "#77004d"
-},
+  	"name": ["Theme"],
+    "description": ["Theme"],
+    "authors": [
+      { 
+        "name": "Trizza"
+      }
+    ],
+
+  "spec": 2,
+  "semanticColors": {
+    "HEADER_PRIMARY": [ "#99004d", "#d121c1", "#6e003c"]
+  },
+
+  "rawColors": {
+    "PRIMARY_500": "#77004d"
+  },
+
+  
+
 "background": {
     "blur": 0.6,
     "url": "https://github.com/TrippaTepis/Theme/raw/main/backgroundimage.png",
     "alpha": 0.4
-    },
+    }
 }
