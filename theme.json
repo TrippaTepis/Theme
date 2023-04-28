@@ -12,16 +12,6 @@
   ],
   "spec": 2,
   "semanticColors": {
-    "HEADER_PRIMARY": [
-      "#99004d",
-      "#d121c1",
-      "#6e003c"
-    ],
-    "HEADER_SECONDARY": [
-      "#77003c",
-      "#6e003c",
-      "#d121c1"
-    ],
     "INTERACTIVE_NORMAL": [
       "#d121c1",
       "#6e003c",
@@ -44,6 +34,21 @@
     ]
     ,
     "BACKGROUND_TERTIARY": [
+      "#99004dcc",
+      "d121c1cc",
+      "6e003ccc"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#99004dcc",
+      "d121c1cc",
+      "6e003ccc"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#99004dcc",
+      "d121c1cc",
+      "6e003ccc"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
       "#99004dcc",
       "d121c1cc",
       "6e003ccc"
