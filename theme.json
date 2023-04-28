@@ -69,7 +69,12 @@
     ],
     "INTERACTIVE_MUTED": [
       "#626262"
-      ]
+      ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#99004d73",
+      "d121c173",
+      "6e003c73"
+    ]
   },
   "rawColors": {
     "PRIMARY_500": "#77004d"
