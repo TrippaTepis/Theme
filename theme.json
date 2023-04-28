@@ -31,8 +31,7 @@
       "#99004d73",
       "d121c173",
       "6e003c73"
-    ]
-    ,
+    ],
     "BACKGROUND_TERTIARY": [
       "#99004d73",
       "d121c173",
@@ -54,9 +53,14 @@
       "6e003c73"
     ],
     "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-      "#99004d1a",
-      "d121c11a",
-      "6e003c1a"
+      "#99004d80",
+      "d121c180",
+      "6e003c80"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#99004d73",
+      "d121c173",
+      "6e003c73"
     ]
   },
   "rawColors": {
