@@ -19,70 +19,70 @@
     ],
     "BACKGROUND_PRIMARY": [
       "#99004d73",
-      "d121c173",
-      "6e003c73"
+      "#d121c173",
+      "#6e003c73"
     ],
     "BACKGROUND_SECONDARY": [
       "#99004d73",
-      "d121c173",
-      "6e003c73"
+      "#d121c173",
+      "#6e003c73"
     ],
     "BACKGROUND_SECONDARY_ALT": [
       "#99004d73",
-      "d121c173",
-      "6e003c73"
+      "#d121c173",
+      "#6e003c73"
     ],
     "BACKGROUND_TERTIARY": [
       "#99004d73",
-      "d121c173",
-      "6e003c73"
+      "#d121c173",
+      "#6e003c73"
     ],
     "BACKGROUND_FLOATING": [
       "#99004d73",
-      "d121c173",
-      "6e003c73"
+      "#d121c173",
+      "#6e003c73"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
       "#99004d73",
-      "d121c173",
-      "6e003c73"
+      "#d121c173",
+      "#6e003c73"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
       "#99004d73",
-      "d121c173",
-      "6e003c73"
+      "#d121c173",
+      "#6e003c73"
     ],
     "CHANNEL_TEXT_AREA_PLACEHOLDER": [
       "#99004d",
       "#d121c1",
       "#6e003c"
     ],
-    "CHANNEL_TEXT_AREA": [
-      "#99004d00",
-      "#d121c100",
-      "#6e003c00"
-      ],
     "BACKGROUND_ACCENT": [
       "#99004d73",
-      "d121c173",
-      "6e003c73"
+      "#d121c173",
+      "#6e003c73"
     ],
     "INTERACTIVE_MUTED": [
       "#626262"
       ],
     "BACKGROUND_MODIFIER_ACTIVE": [
       "#99004d73",
-      "d121c173",
-      "6e003c73"
+      "#d121c173",
+      "#6e003c73"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
       "#99004d73",
-      "d121c173",
-      "6e003c73"
+      "#d121c173",
+      "#6e003c73"
     ]
   },
   "rawColors": {
-    "PRIMARY_500": "#77004d"
+    "PRIMARY_500": "#77004d",
+    "PRIMARY_800": [
+    "#99004D73",
+      "#d121c173",
+      "#6e003c73"
+      ]
   },
   "background": {
     "blur": 0.6,
