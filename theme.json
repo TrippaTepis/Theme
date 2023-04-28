@@ -7,7 +7,7 @@
   ],
   "authors": [
     {
-      "name": ["Trizza"]
+      "name": "Trizza"
     }
   ],
   "spec": 2,
@@ -16,6 +16,16 @@
       "#99004d",
       "#d121c1",
       "#6e003c"
+    ],
+    "HEADER_SECONDARY": [
+      "#77003c",
+      "#6e003c",
+      "#d121c1"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#99004dcc",
+      "#d121c1cc",
+      "#6e003ccc"
     ]
   },
   "rawColors": {
