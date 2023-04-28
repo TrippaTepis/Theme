@@ -52,6 +52,11 @@
       "#99004dcc",
       "d121c1cc",
       "6e003ccc"
+    ],
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+      "#99004d00",
+      "d121c100",
+      "6e003c00"
     ]
   },
   "rawColors": {
