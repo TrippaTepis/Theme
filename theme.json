@@ -53,10 +53,15 @@
       "6e003c73"
     ],
     "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-      "#99004d80",
-      "d121c180",
-      "6e003c80"
+      "#99004d",
+      "#d121c1",
+      "#6e003c"
     ],
+    "CHANNEL_TEXT_AREA": [
+      "#99004d00",
+      "#d121c100",
+      "#6e003c00"
+      ],
     "BACKGROUND_ACCENT": [
       "#99004d73",
       "d121c173",
