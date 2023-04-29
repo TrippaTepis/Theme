@@ -18,7 +18,9 @@
       "rgba(119, 0, 60, 1)"
     ],
     "BACKGROUND_PRIMARY": [
-      "transparent"
+      "rgba(153, 0, 77, 0.45)",
+      "rgba(209, 33, 193, 0.45)",
+      "rgba(110, 0, 60, 0.45)"
     ],
     "BACKGROUND_SECONDARY": [
       "rgba(153, 0, 77, 0.45)",
