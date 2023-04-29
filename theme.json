@@ -48,7 +48,7 @@
     "BACKGROUND_MOBILE_SECONDARY": [
       "rgba(153, 0, 77, 0.40)",
       "rgba(209, 33, 193, 0.40)",
-      "rgba(110, 0, 60, 0.40)
+      "rgba(110, 0, 60, 0.40)"
     ],
     "CHANNEL_TEXT_AREA_PLACEHOLDER": [
       "rgba(153, 0, 77, 1)",
