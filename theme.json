@@ -18,9 +18,9 @@
       "rgba(119, 0, 60, 1)"
     ],
     "BACKGROUND_PRIMARY": [
-      "rgba(153, 0, 77, 0.45)",
-      "rgba(209, 33, 193, 0.45)",
-      "rgba(110, 0, 60, 0.45)"
+      "blur": 0.6,
+    "url": "https://github.com/TrippaTepis/Theme/raw/main/backgroundimage.png",
+    "alpha": 0.4
     ],
     "BACKGROUND_SECONDARY": [
       "rgba(153, 0, 77, 0.45)",
