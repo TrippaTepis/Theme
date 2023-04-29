@@ -48,9 +48,7 @@
       "rgba(110, 0, 60, 0.45)"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "rgba(153, 0, 77, 0.45)",
-      "rgba(209, 33, 193, 0.45)",
-      "rgba(110, 0, 60, 0.45)"
+      "transparent"
     ],
     "CHANNEL_TEXT_AREA_PLACEHOLDER": [
       "rgba(153, 0, 77, 1)",
@@ -89,9 +87,7 @@
       "rgba(110, 0, 60, 0.45)"
       ],
     "PRIMARY_600": [
-    "rgba(153, 0, 77, 1)",
-      "rgba(209, 33, 193, 1)",
-      "rgba(110, 0, 60, 1)"
+    "transparent"
       ]
   },
   "background": {
