@@ -18,9 +18,7 @@
       "rgba(119, 0, 60, 1)"
     ],
     "BACKGROUND_PRIMARY": [
-      "rgba(153, 0, 77, 0.45)",
-      "rgba(209, 33, 193, 0.45)",
-      "rgba(110, 0, 60, 0.45)"
+      "transparent"
     ],
     "BACKGROUND_SECONDARY": [
       "rgba(153, 0, 77, 0.45)",
@@ -76,6 +74,11 @@
   },
   "rawColors": {
     "PRIMARY_500": "rgba(119, 0, 77, 1)",
+    "PRIMARY_300": [
+    "rgba(153, 0, 77, 0.45)",
+      "rgba(209, 33, 193, 0.45)",
+      "rgba(110, 0, 60, 0.45)"
+      ],
     "PRIMARY_800": [
     "rgba(153, 0, 77, 0.45)",
       "rgba(209, 33, 193, 0.45)",
